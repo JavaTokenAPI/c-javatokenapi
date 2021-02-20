@@ -1,0 +1,5 @@
+<script>
+ file.format{ main.class
+   TEXT="HelloWorld"
+   TextColor="Red"
+     input.ClickedText( { == main.chrome( website="https://github.com)
